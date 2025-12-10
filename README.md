@@ -1,4 +1,5 @@
 🌤️ Flutter Weather App – README
+
 📌 Giới thiệu
 Flutter Weather App là ứng dụng dự báo thời tiết theo thời gian thực, sử dụng OpenWeatherMap API.
 Ứng dụng hỗ trợ:
@@ -12,6 +13,7 @@ Flutter Weather App là ứng dụng dự báo thời tiết theo thời gian th
 
 
 🚀 Tính năng chính
+
 🌡️ Thời tiết hiện tại
 * Nhiệt độ, cảm giác như
 * Biểu tượng thời tiết
