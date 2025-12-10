@@ -106,7 +106,6 @@ Thêm các ảnh sau (theo yêu cầu của Lab):
 📊 Màn hình dự báo
 ❗ Trạng thái lỗi
 ⏳ Trang loading
-
 ```
 
 🧪 Testing
